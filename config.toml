@@ -1,0 +1,79 @@
+base_url = "https://blog.dabao.fr"
+title = "Florent Nuttens"
+description = "Ceci est mon blog"
+default_language = "fr"
+theme = "serene"
+output_dir = "public"
+compile_sass = true
+minify_html = true
+build_search_index = false
+generate_feed = false
+feed_filename = "atom.xml"
+taxonomies = [
+    {name = "tags"},             # Keep this
+    {name = "categories"}        # Keep this
+]
+
+[markdown]
+highlight_code = true
+extra_syntaxes = []
+highlight_theme = "nord"
+render_emoji = true
+external_links_target_blank = false
+external_links_no_follow = true
+external_links_no_referrer = true
+smart_punctuation = false
+
+[slugify]
+paths = "on"
+taxonomies = "on"
+anchors = "on"
+
+[extra]
+name = "Florent Nuttens"
+id = "fnuttens"
+bio = "Analyste développeur, formateur et libriste"
+avatar = "img/avatar.webp"
+
+show_id = true
+show_projects = false
+
+# Icons
+blog_icon = "ri-quill-pen-line"          
+projects_icon = "ri-compasses-2-line"
+home_icon = "ri-user-6-line"
+rss_icon = "ri-rss-line"
+toc_icon = "ri-menu-2-line"
+
+# Social media links
+links = [
+    {name = "Twitter", icon = "ri-twitter-line", url = "https://twitter.com/fnuttens"},
+    {name = "Mastodon", icon = "ri-mastodon-line", url = "https://mastodon.top/web/@fnuttens"},
+    {name = "GitHub", icon = "ri-github-line", url = "https://github.com/fnuttens"},
+    {name = "OpenStreetMap", icon = "ri-map-2-line", url = "https://www.openstreetmap.org/user/fnuttens"},
+    {name = "LinkedIn", icon = "ri-linkedin-line", url = "https://www.linkedin.com/in/fnuttens/"}
+]
+
+# Feed
+feed_in_blog_section = true
+
+# Feature switches
+toc = true
+blur_effect = true
+back_to_top_button = true
+progress_bar = true
+cc_license = false
+cc_license_statement = "This work is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)."
+outdate_warn = false
+outdate_warn_days = 120
+outdate_warn_text_before = "Note: This article was last updated "
+outdate_warn_text_after = " days ago and may be out of date."
+
+# Footer
+footer_copyright_name = "Florent Nuttens"
+footer_copyright_year = "2022"
+footer_credits = true
+
+# Comment and Web analytics config
+comment = "none"
+analytics = "none"
