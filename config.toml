@@ -32,7 +32,7 @@ anchors = "on"
 [extra]
 name = "Florent Nuttens"
 id = "fnuttens"
-bio = "Analyste développeur, formateur et libriste"
+bio = "Ingénieur, formateur et libriste"
 avatar = "img/avatar.webp"
 
 show_id = true
