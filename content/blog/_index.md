@@ -1,5 +1,5 @@
 +++
-title = "Mon Blog"
+title = "blog | Florent Nuttens"
 description = "Le site de mon blog."
 sort_by = "date"
 template = "blog.html"
