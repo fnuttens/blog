@@ -51,7 +51,8 @@ links = [
     {name = "Mastodon", icon = "ri-mastodon-line", url = "https://mastodon.top/web/@fnuttens"},
     {name = "GitHub", icon = "ri-github-line", url = "https://github.com/fnuttens"},
     {name = "OpenStreetMap", icon = "ri-map-2-line", url = "https://www.openstreetmap.org/user/fnuttens"},
-    {name = "LinkedIn", icon = "ri-linkedin-line", url = "https://www.linkedin.com/in/fnuttens/"}
+    {name = "LinkedIn", icon = "ri-linkedin-line", url = "https://www.linkedin.com/in/fnuttens/"},
+    {name = "Email", icon = "ri-mail-line", url = "mailto:hello@dabao.fr"}
 ]
 
 # Feed
