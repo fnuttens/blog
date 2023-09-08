@@ -47,8 +47,8 @@ toc_icon = "ri-menu-2-line"
 
 # Social media links
 links = [
-    {name = "Twitter", icon = "ri-twitter-line", url = "https://twitter.com/fnuttens"},
     {name = "Mastodon", icon = "ri-mastodon-line", url = "https://mastodon.top/web/@fnuttens"},
+    {name = "Framagit", icon = "ri-gitlab-line", url = "https://framagit.org/fnuttens"},
     {name = "GitHub", icon = "ri-github-line", url = "https://github.com/fnuttens"},
     {name = "OpenStreetMap", icon = "ri-map-2-line", url = "https://www.openstreetmap.org/user/fnuttens"},
     {name = "LinkedIn", icon = "ri-linkedin-line", url = "https://www.linkedin.com/in/fnuttens/"},

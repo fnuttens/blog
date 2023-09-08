@@ -4,7 +4,7 @@ date = 2022-07-14
 draft = false
 
 [taxonomies]
-categories = [""]
+categories = ["Essais"]
 tags = ["blog","impostor-syndrome","javascript-fatigue","analysis-paralysis"]
 
 [extra]
