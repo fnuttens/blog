@@ -1,6 +1,6 @@
 +++
 title = "Comment j’ai (ré)appris à taper au clavier"
-date = 2023-09-28
+date = 2023-10-01
 draft = true
 
 [taxonomies]
@@ -14,7 +14,7 @@ toc = false
 
 Je dois bien le reconnaître, il m’aura fallu beaucoup de temps avant que je ne m’intéresse sérieusement à la [dactylographie](https://fr.wikipedia.org/wiki/Dactylographie). Bien qu’étant ce qu’on appelle communément un informaticien, j’avais jusqu’à très récemment une technique de frappe tout à fait lambda par rapport aux autres — informaticiens ou non. J’utilisais AZERTY « comme tout le monde » et je frappais les touches à quatre ou cinq doigts en regardant ces dernières de temps à autre, « comme tout le monde » encore une fois.
 
-Mettons les choses au clair : ceci n’est **pas** la bonne façon d’utiliser un clavier. En faisant cela, on diminue non seulement l’efficacité de sa frappe (confort, précision et vitesse), mais surtout on ne peut pas bénéficier d’une bonne ergonomie, avec tous les risques de santé que ça implique — mais j’y reviendrai.
+Aujourd’hui je suis convaincu d’une chose, c’est que ceci n’est **pas** la bonne façon d’utiliser un clavier. Dans cet article, je vais tâcher de vous convaincre à votre tour qu’en utilisant pas tous vos doigts et/ou en regardant votre clavier, vous diminuez non seulement l’efficacité de votre frappe (confort, précision et vitesse), mais surtout vous ne pouvez pas bénéficier d’une bonne ergonomie, avec tous les risques de santé que ça implique — mais j’y reviendrai.
 
 Tout a changé en mars 2023 lorsque j’ai décidé d’apprendre la frappe à dix doigts et à l’aveugle…
 
