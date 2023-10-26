@@ -1,6 +1,6 @@
 +++
 title = "Comment j’ai (ré)appris à taper au clavier"
-date = 2023-10-01
+date = 2023-10-27
 draft = true
 
 [taxonomies]
@@ -16,13 +16,11 @@ Je dois bien le reconnaître, il m’aura fallu beaucoup de temps avant que je n
 
 Aujourd’hui je suis convaincu d’une chose, c’est que ceci n’est **pas** la bonne façon d’utiliser un clavier. Dans cet article, je vais tâcher de vous convaincre à votre tour qu’en utilisant pas tous vos doigts et/ou en regardant votre clavier, vous diminuez non seulement l’efficacité de votre frappe (confort, précision et vitesse), mais surtout vous ne pouvez pas bénéficier d’une bonne ergonomie, avec tous les risques de santé que ça implique — mais j’y reviendrai.
 
-Tout a changé en mars 2023 lorsque j’ai décidé d’apprendre la frappe à dix doigts et à l’aveugle…
+Tout a changé en mars 2023 lorsque j’ai décidé d’apprendre la frappe à dix doigts et à l’aveugle. Dans la suite de cet article, je ferai référence à cette technique en parlant de frappe **dactylographique**, puisque c’est ainsi que travaillent les gens qui exercent ce métier.
 
 <!-- more -->
 
-## Le constat
-
-C’est en 2019 que j’entends parler pour la première fois du clavier [ErgoDox](https://www.ergodox.io/). Ce dernier favorise l’ergonomie de la frappe de deux manières. Tout d’abord, il est littéralement coupé en deux ; à chaque main sa moitié du clavier. Les deux parties étant simplement connectées via un câble, il est possible d’ajuster au mieux l’espacement entre les mains (idéalement dans le prolongement des épaules) et l’orientation, ce qui permet d’éviter de « casser » la ligne formée entre le bras et le poignet, sans quoi on risque la tendinite au niveau du canal carpien.
+Pour comprendre d’où vient mon intérêt pour cette discipline, il faut remonter à l’année 2019, lorsque j’entends parler pour la première fois du clavier [ErgoDox](https://www.ergodox.io/). À cette époque, tout ce que je sais des claviers ergonomiques est qu’ils coûtent plus chers que les autres et qu’ils ont une forme étrange qui me fait tout sauf envie. Toujours est-il qu’un collègue développeur me parle de son ErgoDox, ce qui attise ma curiosité. Ce dernier favorise l’ergonomie de la frappe de deux manières. Tout d’abord, il est littéralement coupé en deux ; à chaque main sa moitié du clavier. Les deux parties étant uniquement liées par un câble, il est possible d’ajuster au mieux l’espacement entre les mains (idéalement dans le prolongement des épaules) et l’orientation, ce qui permet d’éviter de « casser » la ligne formée entre le bras et le poignet, sans quoi on risque la tendinite au niveau du canal carpien. La seconde caractéristique de l’ErgoDox favorisant l’ergonomie est la disposition physique de ses touches. Là où les claviers standards (ISO et ANSI) ont conservé des rangées de touches décalées **directement héritées de la machine à écrire du siècle dernier**, l’ErgoDox adopte une conception que l’on qualifie régulièrement d’**ortholinéaire**. Autrement dit, les rangées de touches sont parfaitement alignées les unes en dessous des autres, de manière à suivre le mouvement naturel des doigts qui se déplacent de haut en bas.
 
 ## Évènements
 
