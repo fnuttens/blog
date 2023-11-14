@@ -1,6 +1,6 @@
 +++
 title = "Comment j’ai (ré)appris à taper au clavier"
-date = 2023-10-30
+date = 2023-11-13
 draft = true
 
 [taxonomies]
@@ -31,6 +31,18 @@ Pour être exact, l’ErgoDox n’est pas un clavier ortholinéaire à propremen
 On peut dire que cette découverte fut pour moi une prise de conscience. Pour la première fois, je réalisais à quel point ce bon vieux clavier ISO était obsolète et potentiellement dangereux en cas d’utilisation prolongée, ce qui était — est toujours — mon cas. Cependant, je réalisais aussi que des barrières de taille m’empêcheraient de mettre les mains sur le Graal de la frappe ergonomique. La première d’entre elles est directement liée au manque de demande dont souffre ce genre de produits. Je ne peux que le déplorer aujourd’hui, mais force est de constater que les claviers *réellement* ergonomiques tels que l’ErgoDox ne remuent pas les foules, ce qui par conséquent rend ces derniers difficilemment accessibles. À l’heure où j’écris ces lignes, l’[ErgoDox EZ](https://ergodox-ez.com/) — version assemblée la plus populaire de l’ErgoDox — est vendu pour environ 350 $. À ce prix que je trouve déjà élevé pour un clavier — même haut de gamme — s’ajoute potentiellement une centaine d’euros de droits de douane pour un produit expédié depuis Taïwan. Ajoutez à cela le fait qu’il est impossible d’essayer le clavier avant de l’avoir acheté et vous comprendrez aisément pourquoi je n’ai pas cassé ma tirelire à l’époque. Alors certes, il est vrai que l’ErgoDox est en réalité un *design* libre, ce qui permet à tout un chacun de **fabriquer** son propre clavier en achetant les pièces nécessaires et en utilisant les schémas fournis, mais ce n’était certainement pas une aventure dans laquelle j’avais envie de me lancer.
 
 En dehors de ces considérations financières, je prenais conscience d’un second frein à l’adoption de l’ErgoDox. Vous vous rappelez quand j’écrivais en introduction que ma frappe était tout sauf dactylographique ? S’il est déjà dommage de perdre du temps à regarder son clavier en tapant, imaginez la perte de temps supplémentaire que peut engendrer l’utilisation d’un clavier *splitté*, dont les deux moitiés peuvent facilement changer de position et d’orientation entre chaque session de travail. Ce n’est pas un hasard si de nombreux claviers ergonomiques sont vendus avec des cabochons (la pièce visible des touches du clavier, sur laquelle un caractère peut être gravé) vierges ; les utilisateur·rice·s de ces derniers ont pour la plupart appris à taper avec leurs dix doigts et à l’aveugle ! Je réalisais par la même occasion qu’un bon nombre de ces personnes avaient délaissé les dispositions QWERTY et AZERTY en faveur de noms obscurs tels que **Dvorak** et **Bépo**. C’en était trop pour moi, face aux profonds changements que j’aurais à entreprendre pour espérer un jour être à la hauteur de l’ErgoDox, je me résignais au statu quo en gardant mon clavier ISO et ma pratique imparfaite de l’AZERTY.
+
+## Un réveil douloureux
+
+Quelques années plus tard, en 2022, je commençais à ressentir une douleur à l’épaule droite. Voyez-vous, comme tout windowsien qui se respecte, j’utilisais la souris pour à peu près tout si on exclue la saisie de texte.
+
+- Rechercher un fichier ou un répertoire ? Avec la souris ✔️
+- Modifier les paramètres d’un logiciel et faire du traitement de texte ? Avec la souris 🙌
+- Naviguer sur le Web ? Avec la souris 🐁
+
+L’utilisation classique de la souris présente plusieurs problèmes. D’abord, c’est un dispositif qui manque cruellement d’ergonomie en soi ; on parle en effet de déplacer son bras tout entier pour déplacer le curseur de quelques pixels, et d’exercer des pressions — *click* — à l’aide de l’index ou du majeur, pressions dont le nombre atteint en une journée de travail peut vite devenir vertigineux. Comme si l’utilisation seule de la souris n’était pas assez problématique, la longeur déraisonnable des claviers équipés de pavé numérique repousse le mulot encore plus à droite qu’une journée passée devant CNews. Par conséquent, la main sort complètement de l’axe de l’épaule et cette dernière devient douloureuse, comme dans mon cas.
+
+Face à ce problème, ma première réaction fut de chercher des alternatives aux <abbr title="Graphical User Interface">GUI</abbr> qui me forçaient à constamment manipuler la souris. Qui dit alternative à la souris dit clavier.
 
 ## Évènements
 
