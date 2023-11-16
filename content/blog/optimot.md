@@ -1,6 +1,6 @@
 +++
 title = "Comment j’ai (ré)appris à taper au clavier"
-date = 2023-11-16
+date = 2023-11-17
 draft = true
 
 [taxonomies]
@@ -61,6 +61,10 @@ Finalement, ce n’est pas sur Vim, ni son « successeur » le plus connu, [
 Mes anciens éditeurs et EDI remis au placard au profit de Helix et son support natif du [LSP](https://en.wikipedia.org/wiki/Language_Server_Protocol), il restait encore à m’occuper d’une application bien trop dépendante de la souris : le navigateur Web. Cet outil, véritable porte d’entrée vers le monde connecté, est aujourd’hui incontournable pour quiconque utilise un ordinateur. Lire un article de blog, payer ses factures, regarder son émission favorite, écouter un *podcast*, éditer un document de manière collaborative, etc. Le navigateur est parfaitement taillé pour ces usages. Il est tellement bon qu’on en viendrait presque à s’inquiéter pour l’avenir du *desktop*. Force est de constater qu’aujourd’hui, pour la grande majorité des gens, le système d’exploitation n’est ni plus ni moins qu’un démarreur pour le navigateur Web. Si ne n’en suis pas à cet extrême, je passe toutefois énormément de temps à fureter sur les internets. La navigation au clavier proposée par défaut sur une page Web est… disons qu’elle existe. Encore faut-il que vous ne tombiez pas sur une <abbr title="Single-Page Application">SPA</abbr>, ces applications Web qui brillent par leur complexité et leur trop fréquente absence d’accessibilité. La solution que j’ai choisi prend la forme d’une extension pour mon [navigateur](https://www.mozilla.org/fr/firefox), j’ai nommé [Tridactyl](https://tridactyl.xyz/). Cette extension, comme d’autres qui sont très similaires, adopte l’approche de Vim en l’appliquant au navigateur. Les touches HJKL, habituellement utilisées pour déplacer le curseur dans chaque direction dans un éditeur modal, servent ici à faire défiler la page Web. Tout comme Vim, Tridactyl propose différents modes remplissant chacun une fonction. Celui que je préfère est sans doute le mode *hint*. En activant ce dernier, chaque hyperlien de la page se voit attribuer un label composé d’une ou deux lettres. La saisie au clavier de ce label aura le même effet qu’un clic à la souris sur le lien concerné. En dehors de la page active du navigateur, il est aussi possible de naviguer entre les onglets et de manipuler ces derniers sans jamais avoir besoin de la souris.
 
 Avec Helix pour l’édition de texte et Tridactyl pour la navigation Web, j’allais enfin pouvoir me libérer de la tyrannie de la souris, pas vrai ?! Pas vrai ? Pas. Vrai.
+
+## Un air de déjà-vu
+
+Comme prévu, les premières semaines passées sur Helix (et Tridactyl dans une moindre mesure) furent douloureuses. J’étais si lent que je devais me limiter à quelques sessions d’utilisation par jour pour éviter d’impacter mon travail. Au début je me disais que c’était normal, qu’il fallait du temps pour apprendre. C’était vrai, mais je me suis vite aperçu qu’un *léger détail* m’empêcherait de tirer tout le potentiel de l’édition modale : **ma frappe**. En effet, cette dernière n’avait pas changé depuis ma découverte de l’ErgoDox en 2019 ! J’utilisais toujours AZERTY avec quatre doigts que j’avais besoin de regarder régulièrement. Autant dire que ça limitait grandement l’efficacité de la navigation au clavier. Le statu quo n’était plus en option cette fois car, sans la possibilité d’être aussi rapide qu’avec la souris, j’aurais certainement fini par reprendre cette dernière et les douleurs qui vont avec.
 
 ## Évènements
 
