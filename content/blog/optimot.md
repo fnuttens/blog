@@ -1,6 +1,6 @@
 +++
 title = "Comment j’ai (ré)appris à taper au clavier"
-date = 2023-11-17
+date = 2023-11-21
 draft = true
 
 [taxonomies]
@@ -65,6 +65,16 @@ Avec Helix pour l’édition de texte et Tridactyl pour la navigation Web, j’a
 ## Un air de déjà-vu
 
 Comme prévu, les premières semaines passées sur Helix (et Tridactyl dans une moindre mesure) furent douloureuses. J’étais si lent que je devais me limiter à quelques sessions d’utilisation par jour pour éviter d’impacter mon travail. Au début je me disais que c’était normal, qu’il fallait du temps pour apprendre. C’était vrai, mais je me suis vite aperçu qu’un *léger détail* m’empêcherait de tirer tout le potentiel de l’édition modale : **ma frappe**. En effet, cette dernière n’avait pas changé depuis ma découverte de l’ErgoDox en 2019 ! J’utilisais toujours AZERTY avec quatre doigts que j’avais besoin de regarder régulièrement. Autant dire que ça limitait grandement l’efficacité de la navigation au clavier. Le statu quo n’était plus en option cette fois car, sans la possibilité d’être aussi rapide qu’avec la souris, j’aurais certainement fini par reprendre cette dernière et les douleurs qui vont avec.
+
+## Une bonne résolution
+
+Nous étions en début d’année 2023 lorsque je me décidais pour de bon à apprendre la frappe dactylographique. Encore fallait-il savoir quelle disposition utiliser ! J’avais le choix entre rester sur l’AZERTY ou changer en faveur d’une disposition plus moderne. À première vue on pourrait se dire que rester sur une disposition connue est le choix le plus raisonnable, que ça permet de faciliter l’apprentissage de la frappe à dix doigts. À vrai dire, je n’en suis pas convaincu ; il faut bien comprendre que le fait de passer d’une frappe « banale » à la frappe dactylographique change complètement les mouvements effectués par les doigts. Il est fort probable que les doigts auparavant utilisés pour tout un ensemble de lettres ne soient désormais affectés qu’à un petit groupe de caractères. Quitte à (ré)apprendre à taper, je me disais qu’il serait aussi bien de le faire avec une disposition optimisée et adaptée à mon usage. AZERTY n’étant ni l’un ni l’autre, je me lançais à la découverte de Bépo, la disposition ergonomique adaptée au français la plus connue.
+
+Le Bépo a été conçu en suivant le même principe que son homologue anglo-saxon, le Dvorak. À partir d’une étude statistique de la langue concernée — le français dans le cas du Bépo —, on dispose sur le clavier les lettres de l’alphabet et des lettres accentuées si besoin, de manière à atteindre deux objectifs. Tout d’abord, les lettres doivent être disposées de part et d’autre du clavier de façon à maximiser l’alternance main gauche / main droite entre chaque caractère saisi. C’est pour cette raison que dans la disposition Bépo, les voyelles sont regroupées sous la main gauche. Le second objectif est de placer les lettres les plus fréquemment utilisées sur la **rangée de repos**. Ce qu’on appelle rangée de repos (*home row* en anglais) est la rangée de touches sur laquelle repose le bout des doigts lorsqu’ils ne sont pas en train de taper. En pratique, il s’agit de la rangée du milieu (au niveau de la touche de verrouillage en majuscule sur un clavier ISO), ce qui est logique puisque le but de la frappe dactylographique est de minimiser la distance parcourue par chaque doigt. Voici les lettres qui composent la rangée de repos sur Bépo : *AUIECTSRNMÇ*. Rien qu’avec ça, il est déjà possible d’écrire beaucoup de choses.
+
+> Une eau saine et sans nitrates rassure.
+
+À titre de comparaison, voici la rangée de repos en AZERTY : *QSDFGHJKLM*. Je vous met au défi d’arriver à former une phrase avec celle-là !
 
 ## Évènements
 
